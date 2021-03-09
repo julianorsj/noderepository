@@ -1,0 +1,6 @@
+# Arquivos e pastas quem devem ser ignorados
+
+node_modules/
+
+*.zip
+*.rar

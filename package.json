@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "repositorio",
+  "description": "Curso de node js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianorsj/noderepository.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Juliano Rosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianorsj/noderepository/issues"
+  },
+  "homepage": "https://github.com/julianorsj/noderepository#readme"
+}
